@@ -331,3 +331,4 @@ hilo1 = Hilo()
 
 # uso del metodo
 hilo1.buscar_novedades()
+
