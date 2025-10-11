@@ -11,4 +11,11 @@ class Indexador:
         """metodo para enviar resultados de busqueda"""
         print("enviando resultados de busqueda")
 
+# *instancia indexador***
+    #creo instancia
+mi_indexador = Indexador()
+    #uso de metodo
+mi_indexador.actualiza_almacen()
+mi_indexador.envia_resultado_de_busqueda()
+
         
